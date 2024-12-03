@@ -1,2 +1,2 @@
-# -TicketingApp
+# TicketingApp
  Ticketing application 
